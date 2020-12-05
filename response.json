@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "terms": "https://currencylayer.com/terms",
+  "privacy": "https://currencylayer.com/privacy",
+  "timestamp": 1607186475,
+  "source": "USD",
+  "quotes": {
+    "USDAUD": 1.346983,
+    "USDBRL": 5.156839,
+    "USDCAD": 1.278805,
+    "USDUSD": 1
+  }
+}
